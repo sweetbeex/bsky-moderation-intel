@@ -1,0 +1,528 @@
+{
+ "method": {
+  "bs001.naomivip.xyz": "repo",
+  "bs002.naomivip.xyz": "repo",
+  "bs003.naomivip.xyz": "repo",
+  "bs004.naomivip.xyz": "repo",
+  "bs005.naomivip.xyz": "repo",
+  "bs006.naomivip.xyz": "repo",
+  "bs007.naomivip.xyz": "repo",
+  "bs008.naomivip.xyz": "repo",
+  "bs009.naomivip.xyz": "repo",
+  "bs010.naomivip.xyz": "repo",
+  "bs011.naomivip.xyz": "repo",
+  "bs012.naomivip.xyz": "repo",
+  "bs013.naomivip.xyz": "repo",
+  "bs014.naomivip.xyz": "repo",
+  "bs015.naomivip.xyz": "repo",
+  "bs016.naomivip.xyz": "repo",
+  "bs017.naomivip.xyz": "repo",
+  "bs018.naomivip.xyz": "repo",
+  "bs019.naomivip.xyz": "repo",
+  "bs020.naomivip.xyz": "repo",
+  "bs021.naomivip.xyz": "repo",
+  "bs022.naomivip.xyz": "appview",
+  "bs023.naomivip.xyz": "appview",
+  "bs024.naomivip.xyz": "appview",
+  "bs025.naomivip.xyz": "appview",
+  "bs026.naomivip.xyz": "appview",
+  "bs027.naomivip.xyz": "appview",
+  "bs028.naomivip.xyz": "appview",
+  "bs029.naomivip.xyz": "appview",
+  "bs030.naomivip.xyz": "appview",
+  "bs031.naomivip.xyz": "appview",
+  "bs032.naomivip.xyz": "appview",
+  "bs033.naomivip.xyz": "appview",
+  "bs034.naomivip.xyz": "appview",
+  "bs035.naomivip.xyz": "appview",
+  "bs036.naomivip.xyz": "appview",
+  "bs038.naomivip.xyz": "appview",
+  "bs039.naomivip.xyz": "appview",
+  "bs040.naomivip.xyz": "appview",
+  "bs043.naomivip.xyz": "appview",
+  "bs045.naomivip.xyz": "appview",
+  "bs047.naomivip.xyz": "appview",
+  "bs048.naomivip.xyz": "appview",
+  "bs049.naomivip.xyz": "appview",
+  "bs050.naomivip.xyz": "appview",
+  "bs051.naomivip.xyz": "appview",
+  "bs052.naomivip.xyz": "appview",
+  "bs053.naomivip.xyz": "appview",
+  "bs055.naomivip.xyz": "appview",
+  "bs056.naomivip.xyz": "appview",
+  "bs057.naomivip.xyz": "appview",
+  "bs059.naomivip.xyz": "appview",
+  "bs060.naomivip.xyz": "appview",
+  "bs061.naomivip.xyz": "appview",
+  "bs062.naomivip.xyz": "appview",
+  "bs063.naomivip.xyz": "appview",
+  "bs064.naomivip.xyz": "appview",
+  "bs066.naomivip.xyz": "appview",
+  "bs067.naomivip.xyz": "appview",
+  "bs068.naomivip.xyz": "appview",
+  "bs070.naomivip.xyz": "appview",
+  "bs071.naomivip.xyz": "appview",
+  "bs072.naomivip.xyz": "appview",
+  "bs073.naomivip.xyz": "appview",
+  "bs074.naomivip.xyz": "appview",
+  "bs077.naomivip.xyz": "appview",
+  "bs078.naomivip.xyz": "appview",
+  "bs079.naomivip.xyz": "appview",
+  "bs080.naomivip.xyz": "appview",
+  "bs082.naomivip.xyz": "appview",
+  "bs083.naomivip.xyz": "appview",
+  "bs084.naomivip.xyz": "appview",
+  "bs085.naomivip.xyz": "appview",
+  "bs086.naomivip.xyz": "appview",
+  "bs087.naomivip.xyz": "appview",
+  "bs088.naomivip.xyz": "appview",
+  "bs089.naomivip.xyz": "appview",
+  "bs090.naomivip.xyz": "appview",
+  "bs091.naomivip.xyz": "appview",
+  "bs092.naomivip.xyz": "appview",
+  "bs093.naomivip.xyz": "appview",
+  "bs094.naomivip.xyz": "appview",
+  "bs095.naomivip.xyz": "appview",
+  "bs097.naomivip.xyz": "appview",
+  "bs098.naomivip.xyz": "appview",
+  "bs099.naomivip.xyz": "appview",
+  "bs100.naomivip.xyz": "appview"
+ },
+ "per_account": {
+  "bs001.naomivip.xyz": {
+   "source": "repo",
+   "internal": 15,
+   "external": 0
+  },
+  "bs002.naomivip.xyz": {
+   "source": "repo",
+   "internal": 10,
+   "external": 2
+  },
+  "bs003.naomivip.xyz": {
+   "source": "repo",
+   "internal": 11,
+   "external": 1
+  },
+  "bs004.naomivip.xyz": {
+   "source": "repo",
+   "internal": 9,
+   "external": 1
+  },
+  "bs005.naomivip.xyz": {
+   "source": "repo",
+   "internal": 9,
+   "external": 1
+  },
+  "bs006.naomivip.xyz": {
+   "source": "repo",
+   "internal": 10,
+   "external": 0
+  },
+  "bs007.naomivip.xyz": {
+   "source": "repo",
+   "internal": 8,
+   "external": 2
+  },
+  "bs008.naomivip.xyz": {
+   "source": "repo",
+   "internal": 10,
+   "external": 0
+  },
+  "bs009.naomivip.xyz": {
+   "source": "repo",
+   "internal": 8,
+   "external": 2
+  },
+  "bs010.naomivip.xyz": {
+   "source": "repo",
+   "internal": 9,
+   "external": 1
+  },
+  "bs011.naomivip.xyz": {
+   "source": "repo",
+   "internal": 9,
+   "external": 0
+  },
+  "bs012.naomivip.xyz": {
+   "source": "repo",
+   "internal": 9,
+   "external": 1
+  },
+  "bs013.naomivip.xyz": {
+   "source": "repo",
+   "internal": 9,
+   "external": 1
+  },
+  "bs014.naomivip.xyz": {
+   "source": "repo",
+   "internal": 9,
+   "external": 1
+  },
+  "bs015.naomivip.xyz": {
+   "source": "repo",
+   "internal": 8,
+   "external": 2
+  },
+  "bs016.naomivip.xyz": {
+   "source": "repo",
+   "internal": 10,
+   "external": 0
+  },
+  "bs017.naomivip.xyz": {
+   "source": "repo",
+   "internal": 10,
+   "external": 0
+  },
+  "bs018.naomivip.xyz": {
+   "source": "repo",
+   "internal": 9,
+   "external": 1
+  },
+  "bs019.naomivip.xyz": {
+   "source": "repo",
+   "internal": 8,
+   "external": 2
+  },
+  "bs020.naomivip.xyz": {
+   "source": "repo",
+   "internal": 9,
+   "external": 1
+  },
+  "bs021.naomivip.xyz": {
+   "source": "repo",
+   "internal": 9,
+   "external": 1
+  },
+  "bs022.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs023.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs024.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs025.naomivip.xyz": {
+   "source": "appview",
+   "internal": 3,
+   "external": 0
+  },
+  "bs026.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs027.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs028.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs029.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs030.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs031.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs032.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs033.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs034.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs035.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs036.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs038.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs039.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs040.naomivip.xyz": {
+   "source": "appview",
+   "internal": 3,
+   "external": 0
+  },
+  "bs043.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs045.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs047.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs048.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs049.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs050.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs051.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs052.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs053.naomivip.xyz": {
+   "source": "appview",
+   "internal": 4,
+   "external": 0
+  },
+  "bs055.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs056.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs057.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs059.naomivip.xyz": {
+   "source": "appview",
+   "internal": 4,
+   "external": 0
+  },
+  "bs060.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs061.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs062.naomivip.xyz": {
+   "source": "appview",
+   "internal": 4,
+   "external": 0
+  },
+  "bs063.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs064.naomivip.xyz": {
+   "source": "appview",
+   "internal": 4,
+   "external": 0
+  },
+  "bs066.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs067.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs068.naomivip.xyz": {
+   "source": "appview",
+   "internal": 3,
+   "external": 0
+  },
+  "bs070.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs071.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs072.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs073.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs074.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs077.naomivip.xyz": {
+   "source": "appview",
+   "internal": 3,
+   "external": 0
+  },
+  "bs078.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs079.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs080.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs082.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs083.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs084.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs085.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs086.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs087.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs088.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs089.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs090.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs091.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs092.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs093.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs094.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs095.naomivip.xyz": {
+   "source": "appview",
+   "internal": 4,
+   "external": 0
+  },
+  "bs097.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs098.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  },
+  "bs099.naomivip.xyz": {
+   "source": "appview",
+   "internal": 5,
+   "external": 0
+  },
+  "bs100.naomivip.xyz": {
+   "source": "appview",
+   "internal": 6,
+   "external": 0
+  }
+ }
+}
